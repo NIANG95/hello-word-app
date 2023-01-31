@@ -7,6 +7,10 @@
   <version>1.0-SNAPSHOT</version>
   <name>hello-world-app</name>
   <url>http://maven.apache.org</url>
+<!--  <propreties>
+    <maven.compiler.source>17</maven.compiler.source>
+    <maven.compiler.target>17</maven.compiler.target>
+  </propreties>-->
   <dependencies>
     <dependency>
       <groupId>junit</groupId>
